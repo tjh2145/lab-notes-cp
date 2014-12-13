@@ -1,14 +1,15 @@
-9/24/14
+###9/24/14
 
-Institutions and vectors;
+##Institutions and vectors
 
-Blog wordpress/html
+**Blog wordpress/html**---->
 
-Write Essays Microsoft Word
+**Write Essays Microsoft Word** ---->
 
-Mail Gmail
+**Mail Gmail** ----->
 
--   The way these formats get backed up are all different. Proposal:
+-   The way these formats get backed up are all different. 
+-   **Proposal:**
     unify through plaintext (one editorial environment, one way to
     access and search)
 
@@ -35,12 +36,11 @@ Mail Gmail
 
 -   Markdown formatting:
 
-    -   Bullet list: -
+    -   **Bullet list**: -
 
-    -   E
 
 -   Experimentation happening with markdown softwares (Mashable
-    article). Dillinger
+    article). **Dillinger**
 
 -   Markup is HTML –clutters the screen
 
@@ -51,11 +51,11 @@ Mail Gmail
 -   Two types of emphasis (we call it emphasis, because bold is a
     stylistic term)
 
-    -   \*\*: bold (secondary, double emphasis)
+    -   **: bold (secondary, double emphasis)
 
-    -   \*: italics (primary emphasis)
+    -   *: italics (primary emphasis)
 
-    -   \*\*\*: both
+    -   ***: both
 
     -   New line: two spaces (carriage return, I want things to be on a
         different line)
@@ -64,11 +64,11 @@ Mail Gmail
 
 -   Headings and organization
 
-    -   \#: Heading
+    -   #: Heading
 
-    -   \#\#: Sub heading
+    -   ##: Sub heading
 
-    -   \#\#\#: Sub sub heading
+    -   ###: Sub sub heading
 
 -   When you write, write. Don’t format. You are not the typesetter (the
     publisher will change what headings look like, whether italic or
@@ -79,13 +79,13 @@ Mail Gmail
 -   Creating semantic meaningful units of text. Create meaning, and
     don’t worry about mark-up.
 
--   List:
+**List:**
 
     -   – (with space): creates bullet list
 
--   Quote
+  **Quote**
 
-    -   \>
+    -   >
 
     -   This means we don’t have to cite in advance – changing between
         formatting.
@@ -100,27 +100,28 @@ Mail Gmail
 -   Stack exchange: stack overflow – many web interfaces/blog editors
     understand markdown
 
--   Footnotes:
+**Footnotes:**
 
-    -   \^[1]
+- [^1]
 
-    -   [1]: note 1 (can’t make a space in between??)
+- [1]: note 1 
 
--   link:
+**link:**
 
-    -   [link]([www.google.com](http://www.google.com))
+ - [link]([www.google.com](http://www.google.com))
 
--   Code blocks
-
-    -   \` code \`: preserve everything in between the ticks (but this
+**Code blocks**
+```
+    -   ` code `: preserve everything in between the ticks (but this
         is not an exact rendering…)
 
-    -   \`\`\`: preserves space for code in many lines
+    -   ```: preserves space for code in many lines
 
     -   useful for quoting poetry, it preserves the formatting in the
         block
 
-    -   must hit enter after the final \`\`\` to
+    -   must hit enter after the final ``` to
+```
 
 -   Ecosystem is rich with different markdown interfaces – 79 different
     programs
@@ -141,7 +142,7 @@ Chair of Philosophy Department at Berkeley created Pandoc
 -   Authoria – reinventing the editorial process everywhere. Integrating
     markdown all the way through the pipeline
 
--   Pandoc is an open source tool, command-line tool, worthwhile
+-   Pandoc is an **open source tool, command-line tool**, worthwhile
     investment
 
 -   Start in Markdown and produce PDF, Microsoft Word file…
@@ -154,7 +155,7 @@ TERMINAL: Pandoc –v: (-: flag), pandoc version
 -   .bib format: plaintext in terminal can look for another entry in
     another file
 
-Pandoc
+###Pandoc
 
 -   YAML: yet another markup language
 
@@ -173,7 +174,7 @@ Pandoc
 
 -   Pandocs works in favor of academics, so it extended Markdown
 
-Convert files using Pandoc:
+####Convert files using Pandoc:
 
 -   -so: flag: smart (makes reasonable assumptions about the English
     language), o (guess the type of file based on the extension)
@@ -185,7 +186,7 @@ Convert files using Pandoc:
     into test.pdf and be smart about the formatting and guess the type
     of file based on the extentsion)
 
-Questions:
+**Questions:**
 
 -   How did these programs become conventions?
 
@@ -196,6 +197,6 @@ Questions:
 -   Command line tool: very simple – do one step well. Pandoc converts
     one thing to another
 
--   Pandoc –h: help
+-   **Pandoc –h**: help
 
 -   Type set

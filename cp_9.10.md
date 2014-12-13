@@ -1,44 +1,44 @@
 #9/10/14 The Terminal
 ##Command Key
 
-###pwd: path to working directory
+**pwd**: path to working directory
 
-###ls: list
+**ls**: list
 - if ls doesn't bring anything up; there is nothing in the directory
 
-###/: route
+**/**: route
 
-###q: quit, get out of man
+**q**: quit, get out of man
 
-###man: manual, built-in help 
+**man**: manual, built-in help 
 - man ls - provides definitions
 
-###clear: clear the screen of junk
-###cd: change directory
+**clear**: clear the screen of junk
+**cd**: change directory
 - cd /: change directories, taking a different route
 - must show the full route that you want to take
 - cd ./: change directories from here (.) to going deeper into the system
 
-###..: go up one; one level higher
+**..**: go up one; one level higher
 - ex: Users/Trina -> Users/
 
-###cd -: toggle back
+**cd -**: toggle back
 - for mac: cd back to the original list
 
-###cd ~: shortcut for home
-###bin
+**cd ~**: shortcut for home
+**bin**
 - ls /bin/: list the contents of the bin directory, in which a handful of commands are kept
 
-###cat
+**cat**
 - concatenate file and print on the standard output (the screen)
 - you can see the difference between plaintext and encrypted by cat -ing a specific document (.txt vs .doc)
 
-###.: here
+**.**: here
 - ls and ls. is the same
 
 ###Tab: always use the tab function to autocomplete and safeguard against 
 
-###mkdir: make a directory in current location
+**mkdir**: make a directory in current location
 
 ##Comments and Questions
 - Unix syntax: transitive verb – adverb – object (ex. “give pencil” “give pencil violently”)

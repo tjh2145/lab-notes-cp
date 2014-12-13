@@ -1,4 +1,6 @@
-**9/17/14 Pandoc and Markdown**
+###9/17/14 
+
+##Pandoc and Markdown: Introduction
 
 -   Tactile feel of textuality in these workshops
 
@@ -11,7 +13,7 @@
 -   Enframing this world. Instrumentality as an extension of your brain,
     even though it’s literally an extension of your hand
 
-Text in your daily life
+**Text in your daily life**
 
 -   Managerial problem – organization. The way we organize affects the
     way it is published (Marxist superstructure phenomenon, access to
